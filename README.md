@@ -37,7 +37,7 @@
 ![alt text](https://github.com/finda15/CI_lanjutan_baru/blob/master/Screenshots/kategori.png?raw=true)
 
 #Screenshoot tambah kategori
-![alt text]{(https://github.com/finda15/CI_lanjutan_baru/blob/master/Screenshots/tambah%20kategori.png?raw=true)
+![alt text](https://github.com/finda15/CI_lanjutan_baru/blob/master/Screenshots/tambah%20kategori.png?raw=true)
 
 #Screenshoot Barang
 ![alt text](https://github.com/finda15/CI_lanjutan_baru/blob/master/Screenshots/Barang.png?raw=true)
